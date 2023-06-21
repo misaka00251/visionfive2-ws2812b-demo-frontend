@@ -2,8 +2,8 @@
 
 ## Requirements
 
-Node.js (v14.17.0 or higher)
-npm (v6.14.13 or higher)
+ - Node.js (v14.17.0 or higher)
+ - npm (v6.14.13 or higher)
 
 ## Installing Dependencies
 
